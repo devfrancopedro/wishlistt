@@ -47,6 +47,27 @@ main img:hover {
     
 }
 
+.main-qix {
+    height: 40vw;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.main-qix p {
+    justify-self: flex-start;
+    font-size: 30px;
+}
+
+.main-p img {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    left: 10vw;
+    height: 100px;
+    width: 100px;
+}
+
 /* Footer */
 
 footer {
