@@ -55,7 +55,6 @@ main img:hover {
 }
 
 .main-qix p {
-    justify-self: flex-start;
     font-size: 30px;
 }
 
